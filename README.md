@@ -1,5 +1,8 @@
 # Mastering Docker Fundamentals
 
+<img width="851" height="481" alt="Image" src="https://github.com/user-attachments/assets/e7d621bc-925f-4bdd-8e36-294a4220aee4" />
+
+
 - ‎What is Docker?
 Docker is an open-source platform that automates the deployment, scaling, and management of applications within containers. 
 ‎
