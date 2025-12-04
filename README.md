@@ -52,3 +52,19 @@ Docker is an open-source platform that automates the deployment, scaling, and ma
 ‎# Switches to the ec2-user account
 ‎sudo su - ec2-user
 ```
+
+- Docker Image
+
+‎Docker Image is used to create Docker containers. Images are built from Dockerfiles and contain everything needed to run an application, including the code, runtime, libraries, and environment variables.
+```sh‎
+
+
+‎Build an Image: Use the docker build command.
+docker build -t your_image_name:tag .
+‎ 
+‎List Images: Use the docker images command to see all images on your system.
+docker images
+‎
+‎Remove an Image: Use the docker rmi command.
+docker rmi your_image_name:tag
+```
