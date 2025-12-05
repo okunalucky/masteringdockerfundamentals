@@ -21,6 +21,7 @@ Docker is an open-source platform that automates the deployment, scaling, and ma
 <img width="878" height="485" alt="Image" src="https://github.com/user-attachments/assets/2c2dc6b9-724b-419e-af77-6fdd401786b7" />
 
 
+
 - Add a key pair and configure the network settings
 
 
