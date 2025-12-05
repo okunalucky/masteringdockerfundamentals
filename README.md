@@ -13,9 +13,24 @@ Docker is an open-source platform that automates the deployment, scaling, and ma
 ‎
 ‎-Isolation: Each container operates independently, minimizing conflicts and enhancing security.
 
-- How to install docker on Amazon Linux 2023 Ami 
+- How to install docker on Amazon Linux 2023 Ami
 
-   -spin up an ec2 instance and under advanced, paste in the code for the user data.
+  <img width="878" height="485" alt="Image" src="https://github.com/user-attachments/assets/2c2dc6b9-724b-419e-af77-6fdd401786b7" />
+
+
+
+
+
+  <img width="857" height="464" alt="Image" src="https://github.com/user-attachments/assets/01bc218f-a845-479d-9a45-0d5564e312c1" />
+
+   
+
+
+
+<img width="1311" height="389" alt="Image" src="https://github.com/user-attachments/assets/ecde3098-0711-4290-8fcd-0fdef2643e46" />
+
+
+
 ‎
 ‎
 ```sh
