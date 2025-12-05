@@ -1,4 +1,4 @@
-# Mastering Docker Fundamentals
+
 
 <img width="851" height="481" alt="Image" src="https://github.com/user-attachments/assets/e7d621bc-925f-4bdd-8e36-294a4220aee4" />
 
@@ -8,30 +8,30 @@ Docker is an open-source platform that automates the deployment, scaling, and ma
 ‎
 ‎
 - ‎Why Use Docker?
-‎
--Portability: Run your applications anywhere Docker is installed—be it on a developer's laptop, a testing environment, or in production.
-‎
-‎-Isolation: Each container operates independently, minimizing conflicts and enhancing security.
+- Portability: Run your applications anywhere Docker is installed—be it on a developer's laptop, a testing environment, or in production.
+- Isolation: Each container operates independently, minimizing conflicts and enhancing security.
 
 - How to install docker on Amazon Linux 2023 Ami
 
-  <img width="878" height="485" alt="Image" src="https://github.com/user-attachments/assets/2c2dc6b9-724b-419e-af77-6fdd401786b7" />
-
-  - Launch an amzon linux 2023, t2 micro and name it Docker
+<img width="878" height="485" alt="Image" src="https://github.com/user-attachments/assets/2c2dc6b9-724b-419e-af77-6fdd401786b7" />
 
 
 
+- Launch an amzon linux 2023, t2 micro and name it Docker
 
 
-  <img width="857" height="464" alt="Image" src="https://github.com/user-attachments/assets/01bc218f-a845-479d-9a45-0d5564e312c1" />
-
-  - Add a key pair and configure the network settings
+<img width="857" height="464" alt="Image" src="https://github.com/user-attachments/assets/01bc218f-a845-479d-9a45-0d5564e312c1" />
 
 
 
- <img width="1311" height="389" alt="Image" src="https://github.com/user-attachments/assets/ecde3098-0711-4290-8fcd-0fdef2643e46" />
+- Add a key pair and configure the network settings
 
- - Under Advanced setting, paste in the userdata below
+
+
+<img width="1311" height="389" alt="Image" src="https://github.com/user-attachments/assets/ecde3098-0711-4290-8fcd-0fdef2643e46" />
+
+
+- Under Advanced setting, paste in the userdata below
 
 ‎
 ‎
