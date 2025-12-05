@@ -26,20 +26,6 @@ Docker is an open-source platform that automates the deployment, scaling, and ma
 ‎# Sets the system hostname to "docker"
 ‎sudo hostnamectl set-hostname docker
 
-- Docker Image
-
-‎Docker Image is used to create Docker containers. Images are built from Dockerfiles and contain everything needed to run an application, including the code, runtime, libraries, and environment variables.
-‎
-- ‎Managing Docker Images:
-
-- ‎Build an Image: Use the docker build command.
-‎ 
-- ‎List Images: Use the docker images command to see all images on your system.
-‎ 
-‎
-- ‎Remove an Image: Use the docker rmi command.
-
-‎
 ‎# Installs the Docker package
 ‎sudo dnf install docker -y
 ‎
