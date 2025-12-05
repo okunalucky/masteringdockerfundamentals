@@ -14,35 +14,9 @@ Docker is an open-source platform that automates the deployment, scaling, and ma
 - How to install docker on Amazon Linux 2023 Ami
 
 - Launch an amzon linux 2023, t2 micro and name it Docker
-
-
-
-
-<img width="878" height="485" alt="Image" src="https://github.com/user-attachments/assets/2c2dc6b9-724b-419e-af77-6fdd401786b7" />
-
-
-
 - Add a key pair and configure the network settings
+- Under Advanced setting, paste in the userdata
 
-
-
-
-
-<img width="857" height="464" alt="Image" src="https://github.com/user-attachments/assets/01bc218f-a845-479d-9a45-0d5564e312c1" />
-
-
-- Under Advanced setting, paste in the userdata 
-
-
-
-
-
-<img width="1311" height="389" alt="Image" src="https://github.com/user-attachments/assets/ecde3098-0711-4290-8fcd-0fdef2643e46" />
-
-
-
-‎
-‎
 ```sh
 ‎#!/bin/bash
 ‎# Updates installed packages
@@ -67,12 +41,36 @@ Docker is an open-source platform that automates the deployment, scaling, and ma
 ‎sudo su - ec2-user
 ```
 
+<img width="878" height="485" alt="Image" src="https://github.com/user-attachments/assets/2c2dc6b9-724b-419e-af77-6fdd401786b7" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 - Docker Image
 
 ‎Docker Image is used to create Docker containers. Images are built from Dockerfiles and contain everything needed to run an application, including the code, runtime, libraries, and environment variables.
+
+
+
 ```sh‎
-
-
 ‎Build an Image: Use the docker build command.
 docker build -t your_image_name:tag .
 ‎ 
