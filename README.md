@@ -13,25 +13,24 @@ Docker is an open-source platform that automates the deployment, scaling, and ma
 
 - How to install docker on Amazon Linux 2023 Ami
 
-<img width="878" height="485" alt="Image" src="https://github.com/user-attachments/assets/2c2dc6b9-724b-419e-af77-6fdd401786b7" />
-
-
-
 - Launch an amzon linux 2023, t2 micro and name it Docker
 
 
-<img width="857" height="464" alt="Image" src="https://github.com/user-attachments/assets/01bc218f-a845-479d-9a45-0d5564e312c1" />
-
+<img width="878" height="485" alt="Image" src="https://github.com/user-attachments/assets/2c2dc6b9-724b-419e-af77-6fdd401786b7" />
 
 
 - Add a key pair and configure the network settings
 
 
+<img width="857" height="464" alt="Image" src="https://github.com/user-attachments/assets/01bc218f-a845-479d-9a45-0d5564e312c1" />
+
+
+- Under Advanced setting, paste in the userdata 
+
 
 <img width="1311" height="389" alt="Image" src="https://github.com/user-attachments/assets/ecde3098-0711-4290-8fcd-0fdef2643e46" />
 
 
-- Under Advanced setting, paste in the userdata below
 
 ‎
 ‎
