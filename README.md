@@ -4,12 +4,14 @@
 
 
 - ‎What is Docker?
-Docker is an open-source platform that automates the deployment, scaling, and management of applications within containers. 
-‎
+Docker is a multi-platform containerization software used to create, build, ship, share and deploy application as containers.‎
 ‎
 - ‎Why Use Docker?
 - Portability: Run your applications anywhere Docker is installed—be it on a developer's laptop, a testing environment, or in production.
 - Isolation: Each container operates independently, minimizing conflicts and enhancing security.
+
+- What is Containerization?
+Containerization is a concept where artefacts or applications are bundled, coupled as one and used to create images such that when the images are deployed, they can run as isolated applications called containers.
 
 - How to install docker on Amazon Linux 2023 Ami
 
